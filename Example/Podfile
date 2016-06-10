@@ -1,0 +1,6 @@
+use_frameworks!
+target 'BFTextView_Tests' do
+  pod 'BFTextView', :path => '../'
+  
+  
+end

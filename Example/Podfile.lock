@@ -1,0 +1,16 @@
+PODS:
+  - BFTextView (0.1.0)
+
+DEPENDENCIES:
+  - BFTextView (from `../`)
+
+EXTERNAL SOURCES:
+  BFTextView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BFTextView: dd9c3699a0727ebe09c80195311e6df716d7807b
+
+PODFILE CHECKSUM: 5203c3a2c7f52ed109a41133fe414b38f827d269
+
+COCOAPODS: 1.0.1
